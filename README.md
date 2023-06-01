@@ -5,7 +5,8 @@ a very simple python tool that 's use for vierify the bt server is still alive o
 
 # Guide
 - please put your BitTorrent server list in to the bt.txt split by comma.
-- run.py 
+- please check the bt.txt file path on run.py, maybe small change need to be done by your self .
+- run run.py 
 - get the avaible server list from bt_alive.txt
 
 # Links
